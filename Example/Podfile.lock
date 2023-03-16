@@ -1,0 +1,16 @@
+PODS:
+  - FrameGreeter (1.0.0)
+
+DEPENDENCIES:
+  - FrameGreeter (from `../FrameGreeter`)
+
+EXTERNAL SOURCES:
+  FrameGreeter:
+    :path: "../FrameGreeter"
+
+SPEC CHECKSUMS:
+  FrameGreeter: 94724ebcea9039a1f14848f3c206d63d504f1719
+
+PODFILE CHECKSUM: 11735510633f8eec855f6057e5c92d27dd6b2893
+
+COCOAPODS: 1.11.3
